@@ -1,0 +1,1 @@
+Habe schon mal mit dem konsolenprogramm angefangen. die spielzüge sind drin, jedoch gibt es einen fehler während des spielens, habe den bereich mit einem kommentar versehen. es fehlt jetzt eigentlich nur noch die gewinn abfrage.
